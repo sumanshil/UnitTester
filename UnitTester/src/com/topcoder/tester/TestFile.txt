@@ -1,0 +1,186 @@
+com.topcoder.problems.round164.UserId
+id
+	{"bjones", "bjones03", "bmjones", "old34id"}, "Bob", "", "Jones"		"bjones01"		Passed	
+
+
+	{"bjones", "bjones03", "bmjones", "old34id"}, "Bob Mack", "Hertobise", "Jone's"		"bhjones"		Passed	
+
+
+	{"bjones", "bjones03", "bmjones", "old34id"}, "Bob Mack", "Hertobise", "Jonestone"		"bjonesto"		Passed	
+
+
+	{"bjonesto", "bjones01", "bmjonest", "old34id"}, "BoB Mack", "Mo", "Jonestone"		"bjones02"		Passed	
+
+
+	{"bjonesto", "bjones01", "bjonesto", "old34id"}, "BoB-Mack", "Mo", "Jonestone"		"BAD DATA"		Passed	
+
+
+	{"axbc", "axbc01", "axbc02", "axbc03", "axbc04", "axbc05", "axbc06", "axbc07", "axbc08", "axbc09", "axbc10"}, "Axelrod", "X", "'B Cal'm'"		"abcalm"		Passed	
+
+
+	{"axbc", "axbc01", "axbc02", "axbc03", "axbc04", "axbc05", "axbc06", "axbc07", "axbc08", "axbc09", "axbc10"}, "A'", "XX", "BC"		"BAD DATA"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "A B", "X", "'B'C"		"abc11"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "A'p", "", "B C"		"abc11"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "A'p", "Pernicious", "B '''C"		"apbc"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "Alvin01", "Baker", "Finch"		"BAD DATA"		Passed	
+
+
+	{"abc", "adefores"}, "Alvin", "O'Neill", "DeForest"		"aodefore"		Passed	
+
+
+	{"abc", "aodefore"}, "Alvin", "O'Neill", "DeForest"		"adefores"		Passed	
+
+
+	{"aabc"}, " aa", "'", " abc"		"aabc01"		Passed	
+
+
+	{"momorris", "mmmm", "momorr01"}, "'m m", "", "O'Morrisy"		"momorr02"		Passed	
+
+
+	{}, "'m m", "J.J", "O'Morrisy"		"BAD DATA"		Passed	
+
+
+	{"axbc", "abc01", "abc03", "abc04", "abc05", "abc06", "abc07", "abc02", "abc09", "abc10", "abc"}, "A'p", "", "B C"		"abc08"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "A'p", " 'YXx'CX", "B C"		"aybc"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "A'p", "X02", "B C"		"BAD DATA"		Passed	
+
+
+	{"axbc", "abc01", "abc02", "abc03", "abc04", "abc05", "abc06", "abc07", "abc08", "abc09", "abc10", "abc"}, "A'p", "", " ' B C"		"abc11"		Passed	
+
+
+	{"jjames"}, "joe1", "", "james"		"BAD DATA"		Passed	
+
+
+	{}, " A", " B", " CCCCCCCCCC"		"BAD DATA"		Passed	
+
+
+	{}, "foo", ".", "bar"		"BAD DATA"		Passed	
+
+
+	{}, " s", " a", " a"		"BAD DATA"		Passed	
+
+
+	{}, "''''''G", "''", "''''''M"		"BAD DATA"		Passed	
+
+
+	{"aaa"}, " ", "aaa", "aaaa"		"BAD DATA"		Passed	
+
+
+	{"aaaaron"}, " ", "a", " "		"BAD DATA"		Passed	
+
+
+	{"bob"}, "fred", "w", ""		"BAD DATA"		Passed	
+
+
+	{}, "A", "", "AAAAA"		"BAD DATA"		Passed	
+
+
+	{}, "J'", "", "abcd"		"BAD DATA"		Passed	
+
+
+	{}, " ", "A", " "		"BAD DATA"		Passed	
+
+
+	{}, "''''''''''''' G", "'' '", " 'M' "		"BAD DATA"		Passed	
+
+
+	{}, "''s", "", "''s"		"BAD DATA"		Passed	
+
+
+	{}, " A", " B", " CCCCCCC"		"BAD DATA"		Passed	
+
+
+	{}, "''''G", "'' ''", "''''M"		"BAD DATA"		Passed	
+
+
+	{}, "a'", "b", "cdef"		"BAD DATA"		Passed	
+
+
+	{}, "a ", "asdf", "asdf"		"BAD DATA"		Passed	
+
+
+	{"jjames"}, "o'", "", "toole"		"BAD DATA"		Passed	
+
+
+	{}, "A", "", "b"		"BAD DATA"		Passed	
+
+
+	{}, "''''G", "''", "''''M"		"BAD DATA"		Passed	
+
+
+	{"blood"}, "B", "ABRAHAM", "ONEAL"		"BAD DATA"		Passed	
+
+
+	{}, " a", "", " s"		"BAD DATA"		Passed	
+
+
+	{}, " a", "a", " a"		"BAD DATA"		Passed	
+
+
+	{"bjones"}, "Bob", "' '", "Jones"		"bjones01"		Passed	
+
+
+	{"jwerner"}, "juergen", "", "werner"		"jwerne01"		Passed	
+
+
+	{"jjkames"}, "o'", "", "toolt"		"BAD DATA"		Passed	
+
+
+	{}, "a", "b", "c"		"BAD DATA"		Passed	
+
+
+	{"aaa"}, " ", "aaa", "aaa"		"BAD DATA"		Passed	
+
+
+	{}, "a'''", "", "haaa"		"BAD DATA"		Passed	
+
+
+	{}, "B'", "", "DAVIS"		"BAD DATA"		Passed	
+
+
+	{}, "b", "", "z"		"BAD DATA"		Passed	
+
+
+	{}, "m", "", "m"		"BAD DATA"		Passed	
+
+
+	{"bjones", "bjones03", "bmjones", "old34id"}, "B", "", "Jones"		"BAD DATA"		Passed	
+
+
+	{"sadffasd"}, "o'", "", "toole"		"BAD DATA"		Passed	
+
+
+	{}, "''a", "", "''b"		"BAD DATA"		Passed	
+
+
+	{}, "m", "", "mm"		"BAD DATA"		Passed	
+
+
+	{}, "A", "BOB", "BOB"		"BAD DATA"		Passed	
+
+
+	{"ireally", "hope", "this", "works"}, "johnz", "rob", "azzaazz"		"jazzaazz"		Passed	
+
+
+	{"jwerner"}, " 'J '", "", "Werner"		"BAD DATA"		Passed	
+
+
+	{"aaa"}, "a", "a", "a"		"BAD DATA"		Passed	
+
+
+	{}, "A", "B", "C"		"BAD DATA"		Passed	
+
+
+	{}, "A'", "B", "C'"		"BAD DATA"		Passed				
